@@ -13,7 +13,7 @@ Collections and Generics are crucial part of OOP. As we go on building Applicati
 
 #### Application
 // our sample use-case
-<a><code>
+<a href='#'><code>
 //Set color by using Color-class types
 Bitmap qrCodeImage = qrCode.GetGraphic(20, Color.DarkRed, Color.PaleGreen, true);
 
