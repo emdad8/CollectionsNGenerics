@@ -20,5 +20,5 @@ Bitmap qrCodeImage = qrCode.GetGraphic(20, Color.DarkRed, Color.PaleGreen, true)
 //Set color by using HTML hex color notation
 Bitmap qrCodeImage = qrCode.GetGraphic(20, "#000ff0", "#0ff000");
 </code>
-
+### License
 [MIT](https://choosealicense.com/licenses/mit/)
